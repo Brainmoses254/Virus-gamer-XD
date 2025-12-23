@@ -1,9 +1,9 @@
 {
-  "name": "malvin-xd",
+  "name": "virus-xd",
   "version": "2.1.1",
-  "description": "MALVIN XD - Advanced WhatsApp Bot",
+  "description": "virus XD - Advanced WhatsApp Bot",
   "website": "cooming soon",
-  "logo": "https://i.ibb.co/zHhMyRT3/malvin-xd.jpg",
+  "logo": "https://files.catbox.moe/8iqspb.jpg",
   "keywords": ["malvin-xd", "whatsapp-bot"],
   "repository": "https://github.com/XdKing2/MALVIN-XD",
   "success_url": "/",
@@ -22,7 +22,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "254710329917"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
