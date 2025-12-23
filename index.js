@@ -19,7 +19,7 @@
 // 📞 For licensing inquiries: Contact developer directly
 // 💼 Official repository: https://github.com/XdKing2/MALVIN-XD
 // Owner contact 
-// 📞 +263776388689
+// 📞 +254710329917
 //
 // Respect the developer's work and rights. Support original projects.
 // =================================================================
